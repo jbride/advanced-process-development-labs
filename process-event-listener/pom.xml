@@ -38,7 +38,7 @@
     </dependency>
   </dependencies>
   <properties>
-    <version.bpms>7.23.0.Final-redhat-00003</version.bpms>
+    <version.bpms>7.30.0.Final-redhat-00003</version.bpms>
   </properties>
   <repositories>
 		<repository>
